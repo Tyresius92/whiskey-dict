@@ -1,0 +1,367 @@
+id,name
+1,3 Badge Beverage Corporation
+2,A.D. Rattray
+3,Aberfeldy
+4,Aberlour
+5,Adelphi
+6,Ailsa Bay Distillery
+7,Alberta
+8,Alexander Murray
+9,Alpine Farms
+10,Amrut
+11,anCnoc
+12,Angel's Envy
+13,Ardbeg
+14,Ardmore
+15,Arran
+16,Auchentoshan
+17,B.R. Distilling
+18,Bacardi
+19,Backbone
+20,Balcones
+21,Balvenie
+22,Bardstown Bourbon Company
+23,Barrell
+24,Barrell Craft Spirits
+25,Barton
+26,Battlehill
+27,Beam
+28,Beam Suntory
+29,"Beam Suntory, Inc."
+30,Ben Nevis
+31,Benriach
+32,Benrinnes
+33,Benromach
+34,Berry Bros. & Rudd
+35,Big Bottom
+36,Big River Distilling
+37,Blackadder
+38,Blackened
+39,Blaum Bros
+40,Blue Run Spirits
+41,Boann Distillery
+42,Bourbon Street Wine and Spirits
+43,Bowman
+44,Bowmore
+45,Brenne
+46,Brittany Merrill Yeng
+47,Brown Water Spirits
+48,Brown-Forman
+49,Bruichladdic
+50,Bruichladdich
+51,Bruidhladdich
+52,Buffalo Trace
+53,Bull Run
+54,Bull Run Distillery
+55,Bulleit
+56,Bully Boy
+57,Bunnahabhain
+58,Bushmills
+59,Cadenhead
+60,Cadenheads
+61,Calumet
+62,Campari
+63,Campari Group
+64,Campbell Distillers
+65,Canadian Club
+66,Canadian Club Whiskey
+67,Canadian Mist
+68,Caol Ila
+69,Castle and Key
+70,Catoctin Creek
+71,Chapter 7
+72,Charbay
+73,Chattanooga
+74,Chattanooga Whiskey
+75,Chicago Distilling Company
+76,Chicken Cock
+77,Chicken Cock Whiskey
+78,Chivas
+79,Chivas Regal
+80,CJS Beverage Corp.
+81,Clan MacGregor
+82,Clyde May's
+83,Clynelish
+84,Coleraine
+85,Compass Box
+86,Copper & Kings
+87,Corner Creek
+88,Corsair
+89,Cragganmore
+90,Craigellachie
+91,Crown Royal
+92,Cutty Sark
+93,Dalmore
+94,Dalwhinnie
+95,Deanston
+96,Deutsch Family Wine and Spirits
+97,Dewar's
+98,Diageo
+99,Dickel
+100,Distillery Bottling
+101,Door County Distillery
+102,Douglas Laing
+103,Driftless Glen
+104,Droptine
+105,Dry Fly Distilling
+106,Dun Bheagan
+107,Duncan Taylor
+108,Dunville
+109,Edradour
+110,Ellenstown
+111,Exclusive Cask
+112,Ezra Brooks
+113,Famous Brands
+114,Far North Spirits
+115,FEW Spirits
+116,Firestone & Robertson
+117,Flaviar
+118,Fleishmann Distilling Co.
+119,Forty Creek
+120,Found North
+121,Four Gate
+122,Four Gate Whiskey Company
+123,Four Roses
+124,Fox Fitzgerald
+125,Garrison Brothers
+126,Glen Garioch
+127,Glen Grant
+128,Glen Moray
+129,Glen Scotia
+130,GlenAllachie
+131,Glenburgie
+132,Glendalough
+133,GlenDronach
+134,Glenfarclas
+135,Glenfiddich
+136,Glengoyne
+137,Glengyle
+138,Glenlivet
+139,Glenmorangie
+140,Glenrothes
+141,Glenscoma
+142,Gordon & MacPhail
+143,Gordon MacPhail
+144,Grain and Barrel
+145,Grangestone
+146,Grants
+147,Great Lakes Distillery
+148,Great Wagon Road
+149,Greenbar
+150,Hazelburn
+151,Heartwood
+152,Heaven HIll
+153,Heaven's Door
+154,Hepburns Choice
+155,Hibiki
+156,Hidden Spirits
+157,High West
+158,Highland Park
+159,Hillrock Estate
+160,Hiram Walker
+161,Hochstadter's
+162,Homestead
+163,Hood River Distillers
+164,Hooten & Young
+165,Hudson
+166,Hunter Laing
+167,Hyde
+168,I.W. Harper
+169,Ian Macleod
+170,Inver House Distillers Limited
+171,Irish Distillers
+172,Isaac Bowman
+173,J. Mattingly
+174,Ja
+175,Jack Daniel's
+176,Jack Daniels
+177,Jacob's Pardon
+178,James Eadie
+179,Jameson
+180,Jefferesons
+181,Jeffersons
+182,Jim Beam
+183,John Milroy
+184,Johnnie Walker
+185,Joseph A. Magnus
+186,Joseph Magnus
+187,Journeyman
+188,Jura
+189,Justerini & Brooks
+190,Kaiyo
+191,Kavalan
+192,KBD
+193,Kentucky Owl
+194,Kentucky Par
+195,KGB Spirits
+196,Kilbeggan
+197,Kilchoman
+198,Kilkerran
+199,Kinahans
+200,Kings County Distillery
+201,Kirkland Signature
+202,KLWines
+203,Knappogue Castle
+204,Knox Whiskey Works
+205,Lagavulin
+206,Laphroaig
+207,LaSalle
+208,Le Gus't
+209,Limestone Branch
+210,Longmorn
+211,Lux Row
+212,Lux Row Distillers
+213,Luxco
+214,M&H (Milk & Honey) Distillery
+215,Macallan
+216,Mad River
+217,Maker's Mark
+218,Makers Mark
+219,Maltman
+220,Malts of Scotland
+221,MB Roland
+222,Medley Family
+223,MGP
+224,Michter's
+225,Midleton
+226,Montgomerie's
+227,Murray McDavid
+228,Mystic
+229,Naked Grouse
+230,National Distillers
+231,Nelsons Green Brier
+232,Nelsons Greenbrier
+233,Nevada Distillers
+234,New Richmond
+235,New Riff
+236,Nikka
+237,O.H. Ingram
+238,O.H. Ingram Whiskey
+239,O.Z. Tyler Distillery
+240,Oban
+241,Old 55 Distillery
+242,Old Carter
+243,Old Dominick
+244,Old Elk
+245,Old Forester
+246,Old Forge Distillery
+247,Old Fourth Distillery
+248,Old Georgetown Spirits
+249,Old Malt Cask
+250,Old Pulteney
+251,Orphan Barrel
+252,Peerless
+253,Penderyn
+254,Penelope
+255,Penelope Bourbon
+256,Pike Creek
+257,Pinhook
+258,PM Spirits
+259,Prichard's Distillery
+260,Prohibition Spirits
+261,Proof & Wood
+262,Proof And Wood
+263,Proof and Wood Ventures
+264,Proper 12
+265,Pursuit Series
+266,Pursuit Spirits
+267,Rabbit Hole
+268,Ransom Wine Co. & Distillery
+269,Rare Malts
+270,Redbreast
+271,Rest and Be Thankful
+272,Restless Spirits Distilling Co.
+273,Rock Town
+274,Royal Wine Corp | Boondocks Spirit Co
+275,Sagamore Spirit
+276,Samaroli
+277,Sazerac
+278,Scapa
+279,Scotch Universe
+280,Seagrams/Crown Royal
+281,Seelbachs
+282,Sexton
+283,Signatory Vintage
+284,Silver Screen Bottling Company
+285,Single Cask Nation
+286,Single Cask Seasons
+287,Smokehead
+288,Smooth Ambler
+289,SMWS
+290,Sovereign
+291,Spencerfield Spirit Co
+292,Spey Royal
+293,Speyside Distillers
+294,Speyside's Speyburn Distillery
+295,Spirits of French Lick
+296,Springbank
+297,St George
+298,St. George
+299,Starlight
+300,Starward
+301,Steel Blending Spirits
+302,Still Austin
+303,Stitzel-Weller
+304,Stolen
+305,Stranahan's
+306,Stranahans
+307,Strathclyde
+308,Talisker
+309,Tamdhu
+310,Teeling
+311,Templeton
+312,TerrePURE
+313,That Boutique-y Whisky Company
+314,The Arran distillery
+315,The Balvenie
+316,The Boutique-y Whisky Company
+317,The Edrington Group
+318,The Exclusive Malts
+319,The First Editions
+320,The Perfect Dram
+321,The Splinter Group
+322,The Ultimate
+323,The Ultimate Whiskey Company
+324,The Ultimate Whisky Company
+325,The Vintage Malt Whiskey Company
+326,The Wayne Gretzky Estates Winery
+327,The Whiskey Exchange
+328,Tincup
+329,Tipton Spirits
+330,Tobermory
+331,Tomatin
+332,Top of the Hill
+333,Town Branch
+334,Traverse City Whiskey Company
+335,Treaty Oak
+336,Tullamore Dew
+337,Uberach
+338,Uncle Nearest
+339,Underdog Wine and Spirits
+340,Undisclosed
+341,Unknown
+342,VA Distillery
+343,Van Winkle
+344,Various
+345,Vintage Malt Whisky Company
+346,Waterford
+347,West Cork Distillers
+348,Westland
+349,Wheel Horse
+350,Whistle Pig
+351,WhistlePig
+352,Widow Jane
+353,Wieser
+354,Wild Turkey
+355,Wilderness Trail
+356,Willett
+357,William Grant & Sons
+358,William Grant and Sons
+359,Witherspoon
+360,Woodford Reserve
+361,Woodinville
+362,Woodinville Whiskey
+363,Woodinville Whiskey Co
+364,Writers' Tears
+365,Wyoming Whiskey
+366,Yamazaki

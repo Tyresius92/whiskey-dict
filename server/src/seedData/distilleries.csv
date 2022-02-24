@@ -1,0 +1,244 @@
+id,name
+1,Alberta
+2,Ardmore
+3,Arran
+4,Barton
+5,Beam
+6,Beam Suntory
+7,Benriach
+8,Bruichladdich
+9,Buffalo Trace
+10,Canadian Club
+11,Castle and Key
+12,Catoctin Creek
+13,Chattanooga
+14,Chattanooga Whiskey
+15,Cooley
+16,Diageo
+17,Dickel
+18,Driftless Glen
+19,Edradour
+20,Finger Lakes Distilling
+21,Firestone & Robertson
+22,Four Roses
+23,GlenAllachie
+24,Glenfiddich
+25,Glengoyne
+26,Glenlivet
+27,Glenmorangie
+28,Heaven Hill
+29,Highland Park
+30,Hillrock Estate
+31,Hood River Distillers
+32,Inver House Distillers Limited
+33,Jack Daniel's
+34,Kavalan
+35,Kilchoman
+36,Lagavulin
+37,Laphroaig
+38,Limestone Branch
+39,Macallan
+40,Maker's Mark
+41,Makers Mark
+42,MGP
+43,Midleton
+44,New Riff
+45,Oban
+46,Old Pulteney
+47,Port Ellen
+48,Rabbit Hole
+49,Speyside's Speyburn Distillery
+50,Springbank
+51,Starlight
+52,Still Austin
+53,Talisker
+54,Tamdhu
+55,The Balvenie
+56,Tobermory
+57,Town Branch
+58,Tullamore Dew
+59,Uncle Nearest
+60,Undisclosed
+61,Undisclosed Tennessee Distiller
+62,Various
+63,Waterford
+64,Wild Turkey
+65,Willett
+66,Woodford Reserve
+67,Woodinville Whiskey
+68,Woodinville Whiskey Co
+69,M&H (Milk & Honey) Distillery
+70,Pike Creek
+71,Prichard's Distillery
+72,Ransom Wine Co. & Distillery
+73,Sazerac
+74,Brown-Forman
+75,Starward
+76,Bushmills
+77,GlenDronach
+78,Glendalough
+79,Crown Royal
+80,Kilbeggan
+81,Canadian Club Whiskey
+82,Restless Spirits Distilling Co.
+83,Teeling
+84,West Cork Distillers
+85,Distillery Bottling
+86,Boann Distillery
+87,LaSalle
+88,"Beam Suntory, Inc."
+89,Irish Distillers
+90,Brittany Merrill Yeng
+91,Bunnahabhain
+92,The Wayne Gretzky Estates Winery
+93,Campari Group
+94,Jameson
+95,Justerini & Brooks
+96,Campbell Distillers
+97,The Edrington Group
+98,O.Z. Tyler Distillery
+99,Bacardi
+100,Fleishmann Distilling Co.
+101,3 Badge Beverage Corporation
+102,William Grant
+103,Woodinville
+104,The Arran distillery
+105,Seelbachs
+106,Hiram Walker
+107,FEW Spirits
+108,Silver Screen Bottling Company
+109,Wilderness Trail
+110,Benrinnes
+111,Mannachmore
+112,Kings County Distillery
+113,B.R. Distilling
+114,Bardstown Bourbon Company
+115,Jim Beam
+116,OZ Tyler
+117,O.Z. Tyler
+118,Treaty Oak
+119,Aberfeldy
+120,Unknown
+121,Ardbeg
+122,VA Distillery
+123,Traverse City Whiskey Company
+124,Nikka
+125,Great Wagon Road
+126,Nelsons Green Brier
+127,Tullibardine
+128,Glen Ord
+129,Spirits of French Lick
+130,Aberlour
+131,Old 55 Distillery
+132,Auchroisk
+133,Glenturret
+134,Craigellachie
+135,Balmenach
+136,Clynelish
+137,Greenbar
+138,St George
+139,Balcones
+140,MIlk and Honey
+141,Glen Scotia
+142,Glenrothes
+143,Loch Lomond
+144,Glenfarclas
+145,Brenne
+146,Glen Garioch
+147,Glen Grant
+148,Finger Lakes Distillery
+149,Mortlach
+150,Mystic
+151,Coleraine
+152,Glenlossie
+153,Caol Ila
+154,GlenDroanch
+155,Dalmore
+156,Blair Athol
+157,Braeval
+158,Mad River
+159,Bully Boy
+160,Glentauchers
+161,Brora
+162,Peerless
+163,Aultmore
+164,Tomatin
+165,Bowmore
+166,Ben Nevis
+167,Deanston
+168,Amrut
+169,Jura
+170,Linkwood
+171,Mannochmore
+172,Old Forester
+173,Balblair
+174,Scapa
+175,Port Dundas
+176,Stitzel-Weller
+177,Tormore
+178,Cragganmore
+179,Invergordon
+180,Glen Moray
+181,Benromach
+182,Copper & Kings
+183,Stranahan's
+184,St. George
+185,Old Forge Distillery
+186,TerrePURE
+187,Dufftown Distillery
+188,Big Bottom
+189,Auchentoshan
+190,Westland
+191,Stranahans
+192,Yamazaki
+193,Ezra Brooks
+194,Witherspoon
+195,Longmorn
+196,Carsebridge
+197,Cambus
+198,Bertrand
+199,Alpine Farms
+200,Charbay
+201,Wyoming Whiskey
+202,New Richmond
+203,Dallas Dhu
+204,Forty Creek
+205,Allt-a-Bhainne
+206,Glenburgie
+207,Van Winkle
+208,Dry Fly Distilling
+209,Dailuaine
+210,Cameronbridge
+211,Jack Daniels
+212,Corsair
+213,Chicago Distilling Company
+214,Garrison Brothers
+215,Seagrams
+216,New Bernheim Distillery
+217,North British
+218,KBD
+219,anCnoc
+220,Hudson
+221,Far North Spirits
+222,National Distillers
+223,Toberymory
+224,Imperial
+225,Bernhneim Distillery
+226,Strathclyde
+227,Balvenie
+228,Smooth Ambler
+229,St. Magdalene
+230,Bernheim
+231,Canadian Mist
+232,Penderyn
+233,Glen Elgin
+234,Hibiki
+235,High West
+236,Top of the Hill
+237,Glengyle
+238,Corner Creek
+239,Rock Town
+240,Dalwhinnie
+241,Journeyman
+242,Wieser
+243,Door County Distillery
