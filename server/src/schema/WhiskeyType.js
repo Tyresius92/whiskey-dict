@@ -3,6 +3,7 @@ import { gql } from 'apollo-server';
 export const WhiskeyType = gql`
   extend type Query {
     whiskies: [Whiskey]
+    whiskey(id: ID!): Whiskey
   }
 
   type Whiskey {
@@ -16,9 +17,9 @@ export const WhiskeyType = gql`
 
 export const WhiskeyResolvers = {
   Query: {
-    whiskies: (_, __, context) => {
-      return context.whiskeyService.getWhiskies();
-    },
+    whiskies: (_, __, context) => context.whiskeyService.getWhiskies(),
+    whiskey: (_, args, context) =>
+      context.whiskeyService.getWhiskeyById(args.id),
   },
 
   Whiskey: {
@@ -29,8 +30,6 @@ export const WhiskeyResolvers = {
 
       return response.type;
     },
-    alcoholByVolume: whiskey => {
-      return whiskey.alcohol_by_volume;
-    },
+    alcoholByVolume: whiskey => whiskey.alcohol_by_volume,
   },
 };

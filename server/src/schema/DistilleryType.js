@@ -17,14 +17,12 @@ export const DistilleryType = gql`
 
 export const DistilleryResolvers = {
   Query: {
-    distilleries: (_, __, context) => {
-      return context.distilleryService.getDistilleries();
-    },
+    distilleries: (_, __, context) =>
+      context.distilleryService.getDistilleries(),
   },
 
   Whiskey: {
-    distillery: (whiskey, _, context) => {
-      return context.distilleryService.getDistilleryById(whiskey.distillery_id);
-    },
+    distillery: (whiskey, _, context) =>
+      context.distilleryService.getDistilleryById(whiskey.distillery_id),
   },
 };

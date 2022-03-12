@@ -17,14 +17,11 @@ export const BottlerType = gql`
 
 export const BottlerResolvers = {
   Query: {
-    bottlers: (_, __, context) => {
-      return context.bottlerService.getBottlers();
-    },
+    bottlers: (_, __, context) => context.bottlerService.getBottlers(),
   },
 
   Whiskey: {
-    bottler: (whiskey, _, context) => {
-      return context.bottlerService.getBottlerById(whiskey.bottler_id);
-    },
+    bottler: (whiskey, _, context) =>
+      context.bottlerService.getBottlerById(whiskey.bottler_id),
   },
 };

@@ -1,9 +1,9 @@
 import { ApolloServer } from 'apollo-server';
 import { typeDefs, resolvers } from './schema';
-import bottlerService from './services/bottlerService';
-import distilleryService from './services/distilleryService';
-import whiskeyService from './services/whiskeyService';
-import whiskeyTypeService from './services/whiskeyTypeService';
+import { bottlerService } from './services/bottlerService';
+import { distilleryService } from './services/distilleryService';
+import { whiskeyService } from './services/whiskeyService';
+import { whiskeyTypeService } from './services/whiskeyTypeService';
 
 const server = new ApolloServer({
   typeDefs,

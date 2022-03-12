@@ -1,14 +1,11 @@
 import { fetch, fetchAll } from '../db/db';
 
-const getDistilleries = () => {
-  return fetchAll('SELECT * FROM distilleries');
-};
+const getDistilleries = () => fetchAll('SELECT * FROM distilleries');
 
-const getDistilleryById = id => {
-  return fetch('SELECT * FROM distilleries WHERE id = $1', [id]);
-};
+const getDistilleryById = id =>
+  fetch('SELECT * FROM distilleries WHERE id = $1', [id]);
 
-module.exports = {
+export const distilleryService = {
   getDistilleries,
   getDistilleryById,
 };

@@ -1,9 +1,11 @@
-import { fetchAll } from '../db/db';
+import { fetch, fetchAll } from '../db/db';
 
-const getWhiskies = () => {
-  return fetchAll('SELECT * FROM whiskies');
-};
+const getWhiskies = () => fetchAll('SELECT * FROM whiskies');
 
-module.exports = {
+const getWhiskeyById = id =>
+  fetch('SELECT * FROM whiskies WHERE id = $1', [id]);
+
+export const whiskeyService = {
   getWhiskies,
+  getWhiskeyById,
 };
